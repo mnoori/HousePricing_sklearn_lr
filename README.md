@@ -1,4 +1,6 @@
-we'll work with a dataset on sold houses in Ames, Iowa. Each row in the dataset describes the properties of a single house as well as the amount it was sold for. In this course, we'll build models that predict the final sale price from its other attributes. Specifically, we'll explore the following questions:
+## Feature selection for multiple linear regression using Scikit-learn
+
+We'll work with a dataset on sold houses in Ames, Iowa. Each row in the dataset describes the properties of a single house as well as the amount it was sold for. In this course, we'll build models that predict the final sale price from its other attributes. Specifically, we'll explore the following questions:
 
 * Which properties of a house most affect the final sale price?
 * How effectively can we predict the sale price from just its properties?
