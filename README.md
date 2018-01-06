@@ -21,4 +21,4 @@ The code is in two seperate parts. In the first part, I have written three seper
 * `select_features()` : feature selection happens here
 * `train_and_test()` : we will train and test our model and this function reports the final rmse of the model.
 
-Second part summarizes how I came up with the way these functions are and provide a backup calculation for the rational of these functions.
+Second part summarizes how I came up with the way these functions are and have provided a backup calculation for the rational of these functions.
